@@ -1,4 +1,5 @@
 **English Language / İngilizce Dili**
+
 This Triggerbot runs without any writes to the csgo, therefore undetectable :)
 
 Note: Uses UserCMD For ForceAttack
@@ -14,6 +15,7 @@ I am using Swed's Template as Memory. (Operation Logic Changed)
 Swed - https://github.com/Massivetwat
 
 **Turkish Language / Türkçe Dili**
+
 Bu Triggerbot, csgo'ya herhangi bir yazma işlemi yapmadan çalışır, bu nedenle tespit edilemez :)
 
 Not: ForceAttack için UserCMD kullanır
