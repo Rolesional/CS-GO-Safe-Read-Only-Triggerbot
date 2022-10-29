@@ -29,3 +29,7 @@ Artık Derleyip Kullanabilirsiniz!
 Tüm Haklara Saygı Duyuyorum
 Hafıza olarak Swed'in Şablonunu kullanıyorum. (Çalışma Mantığı Değiştirildi)
 Swed - https://github.com/Massivetwat
+
+Screenshot / Ekran Görüntüsü:
+
+https://cdn.discordapp.com/attachments/943150432841236490/1035952278466740286/tewe.PNG
