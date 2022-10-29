@@ -4,9 +4,9 @@ This Triggerbot runs without any writes to the csgo, therefore undetectable :)
 Note: Uses UserCMD For ForceAttack
 
 What You Need To Do:
--Updating Offsets
--Setting Trigger Key assignment
--Setting Trigger Delay
+- Updating Offsets
+- Setting Trigger Key assignment
+- Setting Trigger Delay
 Now You Can Compile And Use!
 
 I Respect All Rights 
